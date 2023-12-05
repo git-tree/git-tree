@@ -7,16 +7,4 @@
 ## 贡献统计
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-tree&theme=dracula&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        # 左侧标题
-        - 列表项1
-        - 列表项2
-    </div>
-    <div style="flex: 1;">
-        # 右侧标题
-        [链接文本](链接地址)
-        ![图片描述](图片链接)
-    </div>
-</div>
 
